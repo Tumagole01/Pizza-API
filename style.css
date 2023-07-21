@@ -1,0 +1,40 @@
+body{
+    background-color: #8C96F0;
+    
+}
+.API {
+    text-align: center;
+    background-color: khaki;
+}
+
+.bg-danger {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table {
+    background-color: khaki;
+}
+
+.featurePizza {
+    background-color: khaki;
+    width: 100%;
+}
+
+.btn-outline-light  {
+    width: 100%;
+}
+
+.flex-column {
+    background-color: beige;
+    
+}
+
+.footer {
+    background-color: khaki;
+}
+
+.ms-auto {
+    width: 30%;
+}
